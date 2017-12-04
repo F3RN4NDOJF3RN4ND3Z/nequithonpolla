@@ -12,6 +12,7 @@ La idea principal era crear integrar gamificacion en las funcionalidades que ofr
 <li>Pedir Plata</li>
 <li>Pagar</li>
 <br>
+#
 # Control del dinero
 <li>Meta</li>
 <li>Guardadito</li>
