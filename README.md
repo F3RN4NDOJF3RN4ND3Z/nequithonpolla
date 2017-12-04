@@ -1,4 +1,4 @@
-# nequithonpolla
+# Nequi Stars
 Este  proyecto pretende gamificar nequi
 
 https://www.nequi.com.co/
@@ -28,17 +28,17 @@ Maneja montos pequeños aunque le gustaría lograr metas más grandes.
 No le gusta tener efectivo por seguridad.
 Evangelizador Nequi.
 
-Soluciona desde la apliacion de Gamificación
+# Soluciona desde la apliacion de Gamificación
 • Crear un sistema de puntaje integrado al uso de las funciones de la aplicación. Nequi premiará cada uso con Nequi Stars.
 • Categorizar los usuarios por medio de perfiles según los puntajes obtenidos.
 • Los usuarios podrán acceder a un sistema de préstamo según el perfil que tengan, que los ayudará a cumplir sus metas de ahorro.
 
-Crear Comunidad
+# Crear Comunidad
 •Crear la funcionalidad de METAS colectivas.
 • Las metas colectivas surgen de intereses en común que los usuarios puedan tener.
 • Los usuarios podrán invitar amigos y/o familiares que compartan la misma meta.
 
-Camino del Héroe
+# Camino del Héroe
 Se convoca a los usuarios a crear una meta colectiva como punto de partida.
 El recorrido implica cumplir con el ahorro diario, hacer uso de las funcionalidades de Nequi y progresar en la barra de niveles.
 Ante una crisis en el proceso de ahorro, el usuario podrá solicitar un préstamo a Nequi para poder cumplir con la meta colectiva.
