@@ -1,9 +1,9 @@
 # Nequi Stars
 Este  proyecto pretende gamificar nequi </br>
 
-https://www.nequi.com.co/</br>
+https://www.nequi.com.co/<br>
 
-La idea principal era crear integrar gamificacion en las funcionalidades que ofrece ya la apliación de los que tenemos:</br>
+La idea principal era crear integrar gamificacion en las funcionalidades que ofrece ya la apliación de los que tenemos:<br>
 
 # Manejo del dinero
 <li>Sacar Plata</li>
@@ -11,7 +11,7 @@ La idea principal era crear integrar gamificacion en las funcionalidades que ofr
 <li>Enviar Plata</li>
 <li>Pedir Plata</li>
 <li>Pagar</li>
-</br>
+<br>
 # Control del dinero
 <li>Meta</li>
 <li>Guardadito</li>
