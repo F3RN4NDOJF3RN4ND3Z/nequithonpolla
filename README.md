@@ -32,7 +32,7 @@ Manejan montos pequeños aunque le gustaría lograr metas más grandes. </br>
 No les gusta tener efectivo por seguridad. </br>
 Son Evangelizador Nequi. </br>
 
-# Soluciona desde la apliacion de Gamificación
+# Solución desde la apliación de Gamificación
 <li>Crear un sistema de puntaje integrado al uso de las funciones de la aplicación. Nequi premiará cada uso con Nequi Stars.</li>
 <li>Categorizar los usuarios por medio de perfiles según los puntajes obtenidos.</li>
 <li>Los usuarios podrán acceder a un sistema de préstamo según el perfil que tengan, que los ayudará a cumplir sus metas de ahorro.</li>
