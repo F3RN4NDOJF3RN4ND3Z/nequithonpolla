@@ -17,7 +17,8 @@ La idea principal era crear integrar gamificacion en las funcionalidades que ofr
 3)Bolsillos
 
 Quicimos enfocarnos en gamificar el de Metas de control de dinero con el proyecto Nequi Stars.
-En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos con ir aventos deportivos, asistir a conciertos, ir de viaje ...
+#
+En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos ir aventos deportivos, asistir a conciertos, ir de viaje ...
 
 Dentro de este publico objetivo encontramos que este nicho de mercado esta conformado por:
 Personas > 18 años
