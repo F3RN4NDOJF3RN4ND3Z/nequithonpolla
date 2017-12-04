@@ -4,16 +4,17 @@ Este  proyecto pretende gamificar nequi
 https://www.nequi.com.co/
 
 La idea principal era crear integrar gamificacion en las funcionalidades que ofrece ya la apliación de los que tenemos:
-Manejo del dinero
-1.)Sacar Plata
-2.)Recargar Plata
-3.)Enviar Plata
-4.)Pedir Plata
-5.)Pagar
-Control del dinero
-1.)Meta
-2.)Guardadito
-3.)Bolsillos
+
+# Manejo del dinero
+1)Sacar Plata
+2)Recargar Plata
+3)Enviar Plata
+4)Pedir Plata
+5)Pagar
+# Control del dinero
+1)Meta
+2)Guardadito
+3)Bolsillos
 
 Quicimos enfocarnos en gamificar el de Metas de control de dinero con el proyecto Nequi Stars.
 En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos con ir aventos deportivos, asistir a conciertos, ir de viaje ...
