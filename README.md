@@ -1,9 +1,9 @@
 # Nequi Stars
-Este  proyecto pretende gamificar nequi
+Este  proyecto pretende gamificar nequi </br>
 
-https://www.nequi.com.co/
+https://www.nequi.com.co/</br>
 
-La idea principal era crear integrar gamificacion en las funcionalidades que ofrece ya la apliación de los que tenemos:
+La idea principal era crear integrar gamificacion en las funcionalidades que ofrece ya la apliación de los que tenemos:</br>
 
 # Manejo del dinero
 <li>1)Sacar Plata
@@ -31,19 +31,19 @@ No le gusta tener efectivo por seguridad. </br>
 Evangelizador Nequi. </br>
 
 # Soluciona desde la apliacion de Gamificación
-• Crear un sistema de puntaje integrado al uso de las funciones de la aplicación. Nequi premiará cada uso con Nequi Stars.
-• Categorizar los usuarios por medio de perfiles según los puntajes obtenidos.
-• Los usuarios podrán acceder a un sistema de préstamo según el perfil que tengan, que los ayudará a cumplir sus metas de ahorro.
+<li>• Crear un sistema de puntaje integrado al uso de las funciones de la aplicación. Nequi premiará cada uso con Nequi Stars.
+<li>• Categorizar los usuarios por medio de perfiles según los puntajes obtenidos.
+<li>• Los usuarios podrán acceder a un sistema de préstamo según el perfil que tengan, que los ayudará a cumplir sus metas de ahorro.
 
 # Crear Comunidad
-•Crear la funcionalidad de METAS colectivas.
-• Las metas colectivas surgen de intereses en común que los usuarios puedan tener.
-• Los usuarios podrán invitar amigos y/o familiares que compartan la misma meta.
+<li>•Crear la funcionalidad de METAS colectivas.
+<li>• Las metas colectivas surgen de intereses en común que los usuarios puedan tener.
+<li>• Los usuarios podrán invitar amigos y/o familiares que compartan la misma meta.
 
 # Camino del Héroe
-Se convoca a los usuarios a crear una meta colectiva como punto de partida.
-El recorrido implica cumplir con el ahorro diario, hacer uso de las funcionalidades de Nequi y progresar en la barra de niveles.
-Ante una crisis en el proceso de ahorro, el usuario podrá solicitar un préstamo a Nequi para poder cumplir con la meta colectiva.
+Se convoca a los usuarios a crear una meta colectiva como punto de partida.</br>
+El recorrido implica cumplir con el ahorro diario, hacer uso de las funcionalidades de Nequi y progresar en la barra de niveles.</br>
+Ante una crisis en el proceso de ahorro, el usuario podrá solicitar un préstamo a Nequi para poder cumplir con la meta colectiva.</br>
 
 
 
