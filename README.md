@@ -19,7 +19,7 @@ La idea principal era crear integrar gamificacion en las funcionalidades que ofr
 <br>
 <br>
 Quicimos enfocarnos en gamificar el de Metas de control de dinero con el proyecto Nequi Stars.
-#
+<hr>
 En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos ir aventos deportivos, asistir a conciertos, ir de viaje ... </br>
 
 Dentro de este publico objetivo encontramos que este nicho de mercado esta conformado por: </br>
