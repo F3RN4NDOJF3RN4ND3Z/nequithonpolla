@@ -20,17 +20,17 @@ La idea principal era crear integrar gamificacion en las funcionalidades que ofr
 <br>
 Quicimos enfocarnos en gamificar el de Metas de control de dinero con el proyecto Nequi Stars.
 <hr>
-En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos ir aventos deportivos, asistir a conciertos, ir de viaje ... </br>
+En colombia nos apasionan muchas cosas. Pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos, ir a eventos deportivos, asistir a conciertos, ir de viaje etc... </br>
 
-Dentro de este publico objetivo encontramos que este nicho de mercado esta conformado por: </br>
+Dentro de este publico objetivo encontramos un nicho de mercado esta conformado por: </br>
 Personas > 18 años </br>
-Le gusta Nequi por el control que le da con la plata. </br>
-Le interesa ahorrar. </br>
-Tiene un buen nivel de banca. </br>
-Le gusta la funcionalidad de METAS. </br>
-Maneja montos pequeños aunque le gustaría lograr metas más grandes. </br>
-No le gusta tener efectivo por seguridad. </br>
-Evangelizador Nequi. </br>
+Les gusta Nequi por el control que le da con la plata. </br>
+Les interesa ahorrar. </br>
+Tienen un buen nivel de banca. </br>
+Les gusta la funcionalidad de METAS. </br>
+Manejan montos pequeños aunque le gustaría lograr metas más grandes. </br>
+No les gusta tener efectivo por seguridad. </br>
+Son Evangelizador Nequi. </br>
 
 # Soluciona desde la apliacion de Gamificación
 <li>Crear un sistema de puntaje integrado al uso de las funciones de la aplicación. Nequi premiará cada uso con Nequi Stars.</li>
