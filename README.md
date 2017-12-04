@@ -6,29 +6,29 @@ https://www.nequi.com.co/
 La idea principal era crear integrar gamificacion en las funcionalidades que ofrece ya la apliación de los que tenemos:
 
 # Manejo del dinero
-1)Sacar Plata
-2)Recargar Plata
-3)Enviar Plata
-4)Pedir Plata
-5)Pagar
+<li>1)Sacar Plata
+<li>2)Recargar Plata
+<li>3)Enviar Plata
+<li>4)Pedir Plata
+<li>5)Pagar
 # Control del dinero
-1)Meta
-2)Guardadito
-3)Bolsillos
+<li>1)Meta
+<li>2)Guardadito
+<li>3)Bolsillos
 
 Quicimos enfocarnos en gamificar el de Metas de control de dinero con el proyecto Nequi Stars.
 #
-En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos ir aventos deportivos, asistir a conciertos, ir de viaje ...
+En colombia nos apasionan muchas cosas pero pagar facturas no es una de nuestras favoritas nos gusta compartir con nuestros familiares y amigos ir aventos deportivos, asistir a conciertos, ir de viaje ... </br>
 
-Dentro de este publico objetivo encontramos que este nicho de mercado esta conformado por:
-Personas > 18 años
-Le gusta Nequi por el control que le da con la plata.
-Le interesa ahorrar.
-Tiene un buen nivel de banca.
-Le gusta la funcionalidad de METAS.
-Maneja montos pequeños aunque le gustaría lograr metas más grandes.
-No le gusta tener efectivo por seguridad.
-Evangelizador Nequi.
+Dentro de este publico objetivo encontramos que este nicho de mercado esta conformado por: </br>
+Personas > 18 años </br>
+Le gusta Nequi por el control que le da con la plata. </br>
+Le interesa ahorrar. </br>
+Tiene un buen nivel de banca. </br>
+Le gusta la funcionalidad de METAS. </br>
+Maneja montos pequeños aunque le gustaría lograr metas más grandes. </br>
+No le gusta tener efectivo por seguridad. </br>
+Evangelizador Nequi. </br>
 
 # Soluciona desde la apliacion de Gamificación
 • Crear un sistema de puntaje integrado al uso de las funciones de la aplicación. Nequi premiará cada uso con Nequi Stars.
